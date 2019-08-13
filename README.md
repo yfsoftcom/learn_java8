@@ -7,6 +7,7 @@
 ### Basic
 
 - Lambda 表达式
+- 方法引用
 - Stream 用法
 
 
