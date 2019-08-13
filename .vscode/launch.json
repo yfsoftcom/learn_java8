@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LambdaDemo",
+            "request": "launch",
+            "mainClass": "example.lambda.LambdaDemo",
+            "projectName": "learn_java8_49a611c8"
+        }
+    ]
+}
