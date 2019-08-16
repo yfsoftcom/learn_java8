@@ -22,6 +22,7 @@
 ### Advance
 
 - Thread 的 join()/wait()
+  - Executor 创建执行线程池的几种方式
 - 线程池
 - 锁、原子类型
   - java.util.concurrent.locks.StampedLock / java.util.concurrent.locks.ReadWriteLock
