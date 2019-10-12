@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - TestMain",
+            "request": "launch",
+            "mainClass": "example.TestMain",
+            "projectName": "learn_java8_49a611c8"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - LambdaDemo",
             "request": "launch",
             "mainClass": "example.lambda.LambdaDemo",
