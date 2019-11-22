@@ -26,9 +26,11 @@
 - Thread 的 join()/wait()
   - Executor 创建执行线程池的几种方式
 - 线程池
-- 锁、原子类型
+- 锁、原子类型 
+  - ref: [Lock](https://winterbe.com/posts/2015/04/30/java8-concurrency-tutorial-synchronized-locks-examples/)
   - java.util.concurrent.locks.StampedLock / java.util.concurrent.locks.ReadWriteLock
   - java.util.concurrent.atomic
     - LongAdder
 - 并发性
   - java.util.concurrent.ConcurrentHashMap / java.util.concurrentForkJoinPool
+
